@@ -1,7 +1,18 @@
 body{
     font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(245, 236, 223);
 }
 
 #navbar{
+    background-color: rgb(199, 216, 245);
+}
+
+#foto{
+    height: 20%;
+    width: 20%;
+    margin-left: 40%;
+}
+
+h2{
     background-color: rgb(199, 216, 245);
 }
